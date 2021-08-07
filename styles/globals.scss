@@ -15,3 +15,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+nav {
+  display: flexbox;
+  width: 100%;
+  margin: 0 auto;
+  padding: 25px 80px;
+  vertical-align: middle;
+  position: fixed;
+  top: 0;
+  background-color:hsla(0, 0%, 0%, 0);
+  color: white
+}

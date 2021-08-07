@@ -144,3 +144,22 @@
     flex-direction: column;
   }
 }
+
+.nav {
+  display: flex;
+}
+
+.nav span{
+  display: inline-flex;
+}
+
+.main ul{
+  text-align: right;
+  display: flex;
+  list-style: none;
+}
+
+.main ul li {
+  // display: inline-block;
+  margin: auto;
+}
